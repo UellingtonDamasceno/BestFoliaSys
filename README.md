@@ -8,6 +8,8 @@ da Universidade Estadual de Feira de Santana (UEFS).
   do inglês "Problem-Based Learning" (PBL).
 
 - [Descritivo do problema](https://is.gd/problem_description)
+- [Motivação](#motivação)
+- [Modelo conceitual](#modelo-conceitual)
 - [User Stories](#user-stories)
 - [Objetivo de aprendizagem](#objetivo-de-aprendizagem)
   - Lista encadeada
@@ -18,6 +20,26 @@ da Universidade Estadual de Feira de Santana (UEFS).
     - MVC
     - Iterator
 - [Melhorias](#melhorias)
+
+# Motivação
+Durante o período de carnaval é comum organizarem "bate-volta" para levarem 
+foliões que estão dispostos a bricar o carnaval até os blocos carnavalescos que
+acontecem várias regiões. O grande problema dessa abordagem é as vezes podem
+acontecer desencontros como o que ocorreram com o 
+[OO](#https://is.gd/problem_description). E é para evitar problemas como 
+a falta de organização e horários que o "BestFoliaSys" foi desenvolvido.
+
+# Modelo conceitual
+O projeto é simples e possui uma arquitetura baseada no padrão de projeto 
+estrutual Model, View e Controller (MVC) porém sem a utilização da View e com 
+as seguintes classes no pacote model: 
+- Foliao
+- Transporte
+- Bloco
+
+O diagram a abaixo demostra como as classes se relacionam.
+![Modelo conceitual](https://github.com/UellingtonDamasceno/BestFoliaSys/blob/master/res/modelo%20conceitual.png)
+
 
 # User Stories
 As *user stories* ou "histórias de usuário" é uma forma simples e objetiva
