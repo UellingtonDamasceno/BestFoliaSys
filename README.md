@@ -25,7 +25,7 @@ da Universidade Estadual de Feira de Santana (UEFS).
 Durante o período de carnaval é comum organizarem "bate-volta" para levarem 
 foliões que estão dispostos a bricar o carnaval até os blocos carnavalescos que
 acontecem várias regiões. O grande problema dessa abordagem é as vezes podem
-acontecer desencontros como o que ocorreram com o 
+acontecer desencontros como o que ocorreu com o 
 [OO](#https://is.gd/problem_description). E é para evitar problemas como 
 a falta de organização e horários que o "BestFoliaSys" foi desenvolvido.
 
