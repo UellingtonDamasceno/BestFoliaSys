@@ -10,7 +10,7 @@
     - Facade
     - MVC
     - Iterator
-- [Melhorias](melhorias)
+- [Melhorias](#melhorias)
 
 # User Stories
 As *user stories* ou "histórias de usuário" é uma forma simples e objetiva
