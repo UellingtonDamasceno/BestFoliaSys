@@ -1,5 +1,12 @@
 # BestFoliaSys
 
+Esse foi o primeiro projeto solicitado na disciplina prática do módulo integrador de algoritmos 
+e programação (MI de algoritmo e programação) no semestre 2018.1 do curso de Engenharia da Computação
+da Universidade Estadual de Feira de Santana (UEFS).
+
+  Este projeto foi desenvolvido de forma individual tendo como base a metodologia de aprendizagem baseada em problemas 
+  do inglês "Problem-Based Learning" (PBL).
+
 - [Descritivo do problema](https://is.gd/problem_description)
 - [User Stories](#user-stories)
 - [Objetivo de aprendizagem](#objetivo-de-aprendizagem)
