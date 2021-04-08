@@ -7,19 +7,6 @@ da Universidade Estadual de Feira de Santana (UEFS).
   Este projeto foi desenvolvido de forma individual tendo como base a metodologia de aprendizagem baseada em problemas 
   do inglês "Problem-Based Learning" (PBL).
 
-- [Descritivo do problema](https://is.gd/problem_description)
-- [Motivação](#motivação)
-- [Modelo conceitual](#modelo-conceitual)
-- [User Stories](#user-stories)
-- [Objetivo de aprendizagem](#objetivo-de-aprendizagem)
-  - Lista encadeada
-  - JUnit
-  - Diagrama de classes
-  - Padrões de projeto
-    - Facade
-    - MVC
-    - Iterator
-- [Melhorias](#melhorias)
 
 # Motivação
 Durante o período de carnaval é comum organizarem "bate-volta" para levarem 
